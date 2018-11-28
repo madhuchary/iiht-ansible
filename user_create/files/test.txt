@@ -1,0 +1,1 @@
+This is a demo on ansible roles - files {{ ansible_os_family }}

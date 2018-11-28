@@ -1,0 +1,4 @@
+---
+- name: creating redhat users
+  user:
+          name: redhat
